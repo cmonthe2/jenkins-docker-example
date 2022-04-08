@@ -1,7 +1,7 @@
-package com.mycompany.app;
+package Cbafang.com;
 
 /**
- * Hello world!
+ * Hello Bafang!
  *
  */
 public class App 
